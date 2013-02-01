@@ -58,3 +58,4 @@ origin along a \[45^\circ\] line as shown in the figure?
 What is the magnitude of the electric field at the origin produced 
 by a semi-circular arc of charge \[= -4.0 \mu C\], twice the charge 
 of the quarter-circle arc?
+
